@@ -1,0 +1,25 @@
+
+html{
+    height: 100%;
+}
+body {
+    margin: 0;
+    font-family:  basic-sans, sans-serif;
+    font-size: 1.125em;
+    line-height: 1.6;
+    color: yellowgreen;
+    background-color: teal;
+
+    min-height: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    background-color: rebeccapurple;
+    color: seashell;
+    padding: 3em;
+
+    margin-top: auto;
+}
